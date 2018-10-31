@@ -7,6 +7,7 @@
 ### Repository
 
 * XX-net / XX-Net: 网络代理工具 https://github.com/XX-net/XX-Net
+* XX-net / XX-Net-dev: For XX-Net dev discuss https://github.com/XX-net/XX-Net-dev
 * Kyle-Kyle / baidudl: Chrome插件-获取百度云高速下载链接 https://github.com/Kyle-Kyle/baidudl
 * flyhigher139 / Git-Cheat-Sheet: git文档中文版 https://github.com/flyhigher139/Git-Cheat-Sheet
 * cmderdev / cmder: Windows命令行工具 https://github.com/cmderdev/cmder
