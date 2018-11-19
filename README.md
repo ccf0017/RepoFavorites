@@ -51,3 +51,5 @@
 * proxyee-down-org / proxyee-down: http下载工具 https://github.com/proxyee-down-org/proxyee-down
 * FFmpeg / FFmpeg: 视频格式转换工具 https://github.com/FFmpeg/FFmpeg
 * obsproject / obs-studio: OBS Studio https://github.com/obsproject/obs-studio
+* Homebrew / homebrew-services: Homebrew服务 https://github.com/Homebrew/homebrew-services
+* fouber / blog: 张云龙的博客 https://github.com/fouber/blog
